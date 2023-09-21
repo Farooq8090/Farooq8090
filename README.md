@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Farooq
-- 👀 I’m interested in singing,reading comics.
+- 👀 I’m interested in DevOps.
 - 🌱 I’m currently learning aws with devops
 - 💞️ I’m looking to collaborate on aws.
 - 📫 you can reach me on itsfarooq8090@gmail.com 
